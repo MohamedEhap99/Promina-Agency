@@ -1,4 +1,4 @@
-# Gallery Task ProMina Agency
+# Gallery task - ProMina Agency
 
 ### Using --> Bloc as a state managemnt solution, Bloc MVI pattern - hive Package as a caching mechanism - image_picker package for picking image from user's device - flutter_toast for showing messages to user - Blurry design effect - Responsive Design By using flutter_screenUtil package - flutter_spinkit as a loading indicator - Reusable code - Clean code.
 
