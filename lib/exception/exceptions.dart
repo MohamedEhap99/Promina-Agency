@@ -1,0 +1,3 @@
+class InvaildEmailOrPasswordException implements Exception{
+  
+}
