@@ -4,10 +4,7 @@
 
 ### Using --> StateManagemnt  Bloc - Hive Package - Image Picker - Flutter Toast - Bulyry Container - Responsive Design By Flutter ScreenUtil package - Flutter Spinkit
 
-### A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<img src="https://user-images.githubusercontent.com/92197988/200158075-0401b896-bb78-4979-a555-4b1411d4cd10.png?raw=true" width="300" height="600"/>
 
 ![screenshot_1](https://user-images.githubusercontent.com/92197988/200158075-0401b896-bb78-4979-a555-4b1411d4cd10.png)
 
